@@ -144,4 +144,4 @@ Contributions are welcome! Please fork the repository, make changes, and submit 
 
 ## Contact
 
-For questions or support, contact **Harsha** at [harsha.231it038@nitk.edu.in](mailto:harsha.231it038@nitk.edu.in)
+For questions or support, contact **Me** at [harsha.231it038@nitk.edu.in](mailto:harsha.231it038@nitk.edu.in)
